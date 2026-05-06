@@ -13,6 +13,9 @@ retail_analysis/
 ├── data/
 │   └── online_retail.csv          ← Combined dataset (you must provide this)
 │
+├── notebooks/
+│   └── main.ipynb
+│
 ├── src/                           ← All analysis modules (imported by main.py)
 |   ├── main.py                    ← Single entry point — runs the full pipeline
 │   ├── config.py                   ← All constants, paths & hyperparameters
